@@ -1,0 +1,6 @@
+{
+  "name": "Ruleta Aleatoria",
+  "description": "Plataforma interactiva para girar ruletas, crear equipos equilibrados, formar parejas, sorteos de ganadores y toma de decisiones al instante.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
